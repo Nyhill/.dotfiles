@@ -1,0 +1,33 @@
+URxvt.font: xft:monospace:pixelsize=12,xft:Inconsolata\ for\ Powerline:pixelsize=12
+URxvt.scrollBar:false
+
+   URxvt.cursorColor:  #ccbbb0
+   URxvt.pointerColor: #dc74d1
+
+URxvt.background:  #2D2C28
+URxvt.foreground:  #A4A6AB
+
+
+URxvt.color0:  #282828
+URxvt.color8:  #494949
+!red
+URxvt.color1:  #b76969
+URxvt.color9:  #b87e7e
+!green
+URxvt.color2:  #719d72
+URxvt.color10: #839d84
+!yellow
+URxvt.color3:  #909858
+URxvt.color11: #919864
+!blue
+URxvt.color4:  #68668f
+URxvt.color12: #73718f
+!magenta
+URxvt.color5:  #966894
+URxvt.color13: #987397
+!cyan
+URxvt.color6:  #688891
+URxvt.color14: #758c93
+!white
+URxvt.color7:  #8e8e8e
+URxvt.color15: #aeaeae
